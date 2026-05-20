@@ -241,4 +241,8 @@ tmp/
 temp/
 uploads/*
 !uploads/.gitkeep
+<<<<<<< HEAD
 *.tmp
+=======
+*.tmp
+>>>>>>> 8b31cfa29eacf4ff7366d7b3400144c3b5a0b721
