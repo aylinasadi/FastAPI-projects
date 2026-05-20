@@ -231,3 +231,14 @@ node_modules/
 
 # VS Code
 .vscode/
+
+
+
+*.db
+*.sqlite
+*.sqlite3
+
+tmp/
+temp/
+uploads/
+*.tmp
