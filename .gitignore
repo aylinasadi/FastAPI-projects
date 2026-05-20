@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Environment variables (CRITICAL)
+.env
+
+# SQLite database (your project uses this)
+*.db
+*.sqlite3
+
+# Build / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+
+# IDE
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
